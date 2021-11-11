@@ -2,7 +2,7 @@
 
 Selected solution to Quantitative Trading Program Scholarship of Quantify Capital
 
-Link of website: https://www.quantifycapital.in/quantitative-trading-program/scholarship
+Link of website: https://www.quantifycapital.in/quantitative-trading-program/scholarship  
 Doc link for question: https://docs.google.com/document/d/1dY7oenuyo6fEuOTfEtfzv85T-PU6xhhITUkA0sMG_dk/edit
 
 ## Info about the solution
@@ -38,7 +38,10 @@ Find solutions to the below mentioned question. You can chose to python package
 1. Find all the expiry days for the Banknifty
    Every week Thursday is an expiry day for Banknifty. But the days on which Thursday is a holiday then Wednesday becomes expiry. If Thursday and Wednesday are both holidays then Tuesdays is the expiry date.
 
-2. Plot a monthly percentage return heatmap for Banknifty as shown below
+2. Plot a monthly percentage return heatmap for Banknifty as shown below   
+
+<img width="655" alt="Screenshot 2021-11-11 at 10 18 50 PM" src="https://user-images.githubusercontent.com/36126610/141338449-39f2a89d-250a-4acb-9373-c4f3b907f3c8.png">  
+
 
 Month % Return =( Month Closing price -Month Open Price)/Month Open Price
 
