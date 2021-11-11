@@ -19,12 +19,6 @@ Code the following questions in your machine.
 
 Create a new python file per question. For q1.py, q2.py q3.py and q4.py
 
-Once completed zip the folder which contains above files and then upload it in this google form -
-
-https://docs.google.com/forms/d/e/1FAIpQLSeogGkyV8fwQxjBxaHsjOOPTifA0MDny7POkuJGWm7ZhGEDyg/viewform?usp=sf_link
-
-You can connect with the team on +91 89283 81567 for any queries you may have.
-
 ### Python Coding
 
 You have been provided with a CSV file called 3131.csv. Its contains end of data for Banknifty for 13years
